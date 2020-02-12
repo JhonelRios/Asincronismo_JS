@@ -4,7 +4,8 @@
   "description": "Un proyecto para aprender sobre callbacks, promises y async-await en JS",
   "main": "src/index.js",
   "scripts": {
-    "challenge": "node src/callback/challenge.js"
+    "challenge": "node src/callback/challenge.js",
+    "promise": "node src/promise/index.js"
   },
   "author": "Jhonel Rios Jaimes",
   "license": "MIT",
