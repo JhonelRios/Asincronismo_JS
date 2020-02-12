@@ -17,6 +17,7 @@ doSomething()
 const anotherFunction = async () => {
     try {
         const something = await doSomethingAsync()
+        console.log(something)
     } catch (error) {
         console.error(error)
     }
